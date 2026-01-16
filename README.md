@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/as1b4c.png" alt="KING-M" width="300"/>
 </p>
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sesco001/KING-MD)
 <p align="center">
   <a href="#"><img title="KING-M" src="https://img.shields.io/badge/KING--M-your%20whatsapp%20manager?colorA=%230017ff&colorB=%23ff0099&style=for-the-badge"></a>
 </p>
